@@ -63,7 +63,7 @@
 .form-input button {
   padding: 0.5rem;
   width: 15%;
-  border: 1px solid rgb(20, 113, 20);
+  border: 1px solid rgb(196, 216, 196);
   border-radius: 10px;
   background-color: rgb(20, 113, 20);
   color: white;
